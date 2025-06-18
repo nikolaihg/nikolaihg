@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-I have Bachelor's student in Information Science at the University of Bergen, with a strong interest in backend development, databases, and software architecture. Currently working as a technician at UiB and volunteering at Stiftelsen Hulen.
+I have a Bachelor in Information Science at the University of Bergen, with a strong interest in backend development, databases, and software architecture. Currently working as a technician at UiB and volunteering at Stiftelsen Hulen.
 
 ---
 
