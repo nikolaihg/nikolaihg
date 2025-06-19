@@ -4,6 +4,6 @@ I have a Bachelor in Information Science at the University of Bergen, with a str
 
 ## 🛠️ Tech  🛠️
 
-**Programming languages:** Go · Java · Python · Haskell · TypeScript  
-**Frameworks:** Spring Boot · Flask · Django · Next.js  
+**Programming languages:** Java · Go · Python · Haskell · TypeScript  
+**Frameworks:** Spring Boot · Flask · Django · Next.js · React
 **Other tools:** MySQL · PostgreSQL · Docker
