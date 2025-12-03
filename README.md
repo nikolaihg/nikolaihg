@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Nikolai Gangstø
 
-I have a Bachelor in Information Science at the University of Bergen. 
+I have a Bachelor in Information Science from the University of Bergen. 
 - [Stiftelsen-Hulen](https://github.com/Stiftelsen-Hulen)
 - [echo-consulting](https://github.com/echo-consulting)
 - [linkedin](https://www.linkedin.com/in/nikolai-gangst%C3%B8/)
